@@ -1,4 +1,19 @@
 # vue-chat-client
+### Browser-1
+
+![alt text](https://raw.githubusercontent.com/shiv-source/vue-node-chat-application/master/screenshot/Annotation%202020-08-29%20171858.png)
+
+
+
+
+
+
+
+### Browser-2
+
+![alt text](https://raw.githubusercontent.com/shiv-source/vue-node-chat-application/master/screenshot/Annotation%202020-08-29%20171555.png)
+
+
 
 ## Project setup
 ```
